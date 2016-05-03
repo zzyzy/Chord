@@ -1,0 +1,12 @@
+initchord 32
+addpeer 1
+addpeer 4
+removepeer 0
+removepeer 1
+removepeer 4
+addpeer 9
+addpeer 11
+addpeer 14
+removepeer 11
+removepeer 14
+addpeer 18
